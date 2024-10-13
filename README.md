@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MixoTheHighlander
+- 👀 I’m interested in Godot and web dev
+- 🌱 I’m currently learning React
